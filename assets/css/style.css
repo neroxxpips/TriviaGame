@@ -6,13 +6,15 @@ body {
 
 }
 h1, h2 {
+	font-family: 'Diplomata', cursive;
 	text-align: center;
 }
 .mainContent {
 	border: 1px solid black;
-	padding-left: 10px;
+	padding-bottom: 20px;
 	width: 760px;
 	background-color: lightyellow;
 	margin: 0 auto 0 auto;
+	text-align: center;
 
 }
